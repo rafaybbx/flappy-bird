@@ -2,6 +2,11 @@
 
 This is a Flappy Bird project that includes a Raptor flowchart and supporting images. The flowchart outlines the logic and structure of the game, while the images are assets used in the project.
 
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c67c08c8-fdf7-4e56-b321-e4a484216a8c" alt="Flappy Bird GIF">
+</p>
+
 ## Files in This Repository
 - `flappy.rap`: The flowchart for the Flappy Bird game logic.
 - `bird.png`, `bg.png`, `ready.png`: Assets used in the project.
